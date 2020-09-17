@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/S3_2020/.idea/S3_2020.iml" filepath="$PROJECT_DIR$/S3_2020/.idea/S3_2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testingEnvironment/.idea/testingEnvironment.iml" filepath="$PROJECT_DIR$/../testingEnvironment/.idea/testingEnvironment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/waterlooCCC.iml" filepath="$PROJECT_DIR$/.idea/waterlooCCC.iml" />
+    </modules>
+  </component>
+</project>
